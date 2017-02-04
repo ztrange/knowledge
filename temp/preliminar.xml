@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+	<channel>
+	<title>Últimos sismos registrados por el SSN</title>
+		<link>http://www.ssn.unam.mx</link>
+		<description>Reporte de los últimos sismos en México</description>
+		<pubDate>Fri, 03 Feb 2017 20:19:00 +0000</pubDate>
+		<item>
+			<title>Preliminar: M 5.0, 36 km al SUROESTE de  HUIXTLA, CHIS</title>
+			<description><![CDATA[ <p>Fecha:2017-02-03 14:17:13 (Hora de M&eacute;xico)<br/>Lat/Lon: 14.89/-92.68<br/>Profundidad: 10.0 km </p> ]]></description>
+			<geo:lat>14.89</geo:lat>
+			<geo:long>-92.68</geo:long>
+		</item>
+	</channel>
+	</rss>
